@@ -15,7 +15,7 @@ examples:
 If you want to **test** your knowledge, take a look at the [challenge](challenge/challenge.mdx).
 
 If you want to know more about FEEL in general and how to **write** FEEL expressions, see the 
-[lanugage guide](https://docs.camunda.io/docs/components/modeler/feel/what-is-feel/).
+[language guide](https://docs.fluxnova.finos.org/user-guide/dmn-engine/feel/).
 
 :::info
 

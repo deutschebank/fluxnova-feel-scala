@@ -10,14 +10,14 @@ export const MarkerChangelogVersion = ({versionZeebe, versionC7}) => {
           padding: '0.2rem',
           marginRight: '0.5rem'
         }}
-              title={"Available since the given Camunda Platform 8 (Zeebe) version."}>Zeebe: {versionZeebe}</span>
+              title={"Available since the given Fluxnova Platform  version."}>Fluxnova Platform: {versionZeebe}</span>
         <span style={{
           backgroundColor: '#0072CE',
           borderRadius: '7px',
           color: '#fff',
           padding: '0.2rem',
         }}
-              title={"Available since the given Camunda Platform 7 version."}>Camunda Platform: {versionC7}</span>
+              title={"Available since the given Fluxnova Platform  version."}>Fluxnova Platform: {versionC7}</span>
       </p>
   );
 }

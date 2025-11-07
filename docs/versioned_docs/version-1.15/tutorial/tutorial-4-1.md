@@ -9,4 +9,4 @@ Here we will have some witty way of explaining usage of list expressions in FEEL
 
 :::
 
- Final Stop BERLIN!!!! in time for CamundaCon
+ Final Stop BERLIN!!!! in time for Con

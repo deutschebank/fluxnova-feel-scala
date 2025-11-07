@@ -22,7 +22,7 @@ module.exports = {
           position: 'left',
         },
         {
-          href: 'https://docs.camunda.io/docs/components/modeler/feel/language-guide/feel-expressions-introduction/',
+          href: 'https://docs.fluxnova.finos.org/user-guide/dmn-engine/expressions-and-scripts/',
           label: 'Language Guide',
           position: 'left',
         },

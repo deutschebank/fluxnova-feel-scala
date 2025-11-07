@@ -23,7 +23,7 @@ engine and initialize it for you.
   ```
   brew install ammonite-repl
   ```
-* Download the script [feel-repl.sc](https://raw.githubusercontent.com/camunda/feel-scala/master/feel-repl.sc) or clone the [Git repository](https://github.com/camunda/feel-scala)
+* Download the script [feel-repl.sc](https://github.com/finos/fluxnova-feel-scala/blob/main/feel-repl.sc) or clone the [Git repository](https://github.com/finos/fluxnova-feel-scala)
 
 ## Usage
 

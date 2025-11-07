@@ -1,11 +1,11 @@
 blank_issues_enabled: true
 contact_links:
   - name: Bug report
-    url: https://github.com/camunda/camunda/issues/new/choose
-    about: Please report issues in the Camunda issue tracker as "FEEL Bug Report".
+    url: https://github.com/finos/fluxnova-bpm-platform/issues
+    about: Please report issues in the Fluxnova issue tracker as "FEEL Bug Report".
   - name: Feature request
-    url: https://github.com/camunda/camunda/issues/new/choose
-    about: Please suggest enhancements/ideas in the Camunda issue tracker as "FEEL Feature request".
+    url: https://github.com/finos/fluxnova-bpm-platform/issues
+    about: Please suggest enhancements/ideas in the Fluxnova issue tracker as "FEEL Feature request".
   - name: Documentation
-    url: https://github.com/camunda/camunda-docs/issues/new/choose
-    about: Please report any missing or incorrect documentation in the Camunda Docs issue tracker.
+    url: https://github.com/finos/fluxnova-bpm-platform/issues
+    about: Please report any missing or incorrect documentation in the Fluxnova Docs issue tracker.
